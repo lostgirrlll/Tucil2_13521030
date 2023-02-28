@@ -32,6 +32,6 @@ def output(output):
 |        Rasa ingin menyerah itu wajar, tetapi menyerah bukan keputusan         |
 |          yang tepat untuk seorang manusia super tangguh sepertimu.            |
 |               Tetaplah melangkah, walau harus merubah arah.                   |
-|                          - Martabak Legit Group-                              |
+|                          -Martabak Legit Group-                               |
 |_______________________________________________________________________________|
         ''')
