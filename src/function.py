@@ -112,7 +112,7 @@ def bruteForce(array):
     distance = 999999
     countEdBF = 0
     for i in range(len(array)):
-        for j in range(len(array)):
+        for j in range(1+i, len(array)):
             if i != j:
                 twoPoint, distance1, countEdBF = EuclideanDistance([array[i], array[j]], countEdBF)
                 if distance1 < distance:

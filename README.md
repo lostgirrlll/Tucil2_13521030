@@ -16,18 +16,15 @@ Program ini dibuat untuk mencari sepasang titik terdekat beserta jaraknya dari n
 
 ## Struktur Program
 ```
-Tucil2_13521018_13521030  
-├─ bin                    
-├─ doc                    
-│  └─ Tucil2_13521030.pdf          
-├─ src                    
-│  ├─ function.py         
-│  ├─ main.py             
-│  ├─ splashScreen.py     
-│  └─ visualize.py        
-└─ README.md              
-                                                                               
-     
+Tucil2_13521030        
+├─ doc                 
+│  └─ Tucil2_13521030.pdf         
+├─ src                 
+│  ├─ function.py      
+│  ├─ main.py          
+│  ├─ splashScreen.py  
+│  └─ visualize.py     
+└─ README.md           
 ```
 
 ## Kebutuhan program dan instalasi
